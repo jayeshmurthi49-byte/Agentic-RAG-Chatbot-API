@@ -5,16 +5,16 @@ An AI agent behind a FastAPI endpoint. Send it a question and the agent decides 
 ## Demo
 
 **API docs (Swagger UI)**
-![API docs overview](screenshot/docs_overview.png)
+![API docs overview](Screenshot/docs_overview.png)
 
 **Grounded answer from the PDF**
-![PDF answer](screenshot/pdf_answer.png)
+![PDF answer](Screenshot/pdf_answer.png)
 
 **Memory within a session (`user1` remembers)**
-![Memory remembers](screenshot/memory_remembers.png)
+![Memory remembers](Screenshot/memory_remembers.png)
 
 **Memory is separate per session (`user2` does not know)**
-![Memory separate](screenshot/memory_separate.png)
+![Memory separate](Screenshot/memory_separate.png)
 
 ## How it works
 
