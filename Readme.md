@@ -2,6 +2,13 @@
 
 An AI agent behind a FastAPI endpoint. Send it a question and the agent decides which tool to use: search a PDF knowledge base (RAG), search the web, do math, or convert currency. It remembers earlier messages within a session.
 
+
+## Live Demo
+
+Try it here: **[Agentic RAG Assistant on Hugging Face Spaces](https://huggingface.co/spaces/jayeshmurthi49-byte/Agentic-RAG-Chatbot-API)**
+
+The live Space is a chat interface for the same agent. The FastAPI endpoints (`/ask`, `/docs`) run locally, as described below. The Space may take a minute to wake up if it has been idle.
+
 ## Demo
 
 **API docs (Swagger UI)**
